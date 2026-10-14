@@ -49,4 +49,4 @@ Calorie values are rounded estimates for game purposes, not medical advice.
 
 ## Team
 
-[Add your team members' names or a group name]
+Michelle, Carissa, Byanca, Audrich
