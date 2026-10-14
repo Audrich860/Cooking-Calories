@@ -126,7 +126,18 @@ const DISHES = [
 const CHARS = [["Maya",15,62,2200,2000],["Daniel",16,78,2800,2500],["Aisha",14,48,2000,2000],["Ethan",17,70,3200,3200],
   ["Sofia",13,55,2000,2000],["Lucas",16,95,2900,2500],["Chloe",17,58,2300,2300],["Noah",14,45,2400,2700]];
 // name, METs, hours (placeholder activity cards)
-const ACTS = [["No activity",0,0],["Slow walk, 30 min",2.5,0.5],["Brisk walk, 30 min",3.5,0.5],["Brisk walk, 60 min",3.5,1]];
+// name, METs, hours (each card is 30 minutes)
+const ACTS = [
+  ["No activity", 0, 0],
+  ["Stretching, 30 min", 2.0, 0.5],
+  ["Slow walk, 30 min", 2.5, 0.5],
+  ["Housework (sweeping), 30 min", 3.3, 0.5],
+  ["Brisk walk, 30 min", 3.5, 0.5],
+  ["Casual cycling, 30 min", 4.0, 0.5],
+  ["Jogging, 30 min", 7.0, 0.5],
+  ["Basketball game, 30 min", 8.0, 0.5],
+  ["Swimming laps (fast), 30 min", 9.8, 0.5]
+];
 const HOURLY_COINS = 300, GOAL_RANGE = 100, BRISK_MET = 3.5;
 
 // ---------- LOGIC ----------
