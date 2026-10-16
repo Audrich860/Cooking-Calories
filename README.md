@@ -2,7 +2,7 @@
 
 A board game and companion website that raises awareness of calorie intake and balanced diets, with a focus on teenage obesity.
 
-**Live site:** [add your GitHub Pages link here]
+
 
 ## About the project
 
